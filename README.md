@@ -9,5 +9,7 @@ The dataset I used is from a Kaggle channel. It is an IMDB Dataset containing 50
 
 *URL: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews*
 
-### Run Streamlit UI by running the below code in the terminal directory:
+# Runing Streamlit UI 
+
+Run the below code in the terminal directory to deploy Streamlit with the pre-trained model:
   - python -m streamlit run streamlit_app.py
